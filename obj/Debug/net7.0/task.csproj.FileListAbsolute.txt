@@ -1,0 +1,15 @@
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\bin\Debug\net7.0\task.exe
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\bin\Debug\net7.0\task.deps.json
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\bin\Debug\net7.0\task.runtimeconfig.json
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\bin\Debug\net7.0\task.dll
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\bin\Debug\net7.0\task.pdb
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.dll
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\refint\task.dll
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.pdb
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+Y:\личное\курсы\Разработчик\HomeWork\Controll\task\obj\Debug\net7.0\ref\task.dll
